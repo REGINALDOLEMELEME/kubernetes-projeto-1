@@ -16,4 +16,4 @@ kubectl apply -f ./services.yml
 
 echo "Realizandos os Deployments"
 
-kubectl apply -f ./deployments.yml
+kubectl apply -f ./deployment.yml
