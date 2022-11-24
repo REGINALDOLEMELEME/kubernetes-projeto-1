@@ -14,6 +14,6 @@ echo "Criando serviços no cluster Kubernetes"
 
 kubectl apply -f ./services.yml
 
-echo "Realizandos os Deployments"
+echo "Realizando o Deployment"
 
 kubectl apply -f ./deployment.yml
